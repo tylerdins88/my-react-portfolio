@@ -16,8 +16,95 @@ Nav {
   text-align: center;
 }
 
+.skillsShift {
+  margin-left: 80px;
+}
+
+.projects {
+  margin-top: 60px;
+  margin-left: 100px;
+}
+
+.aquadown,
+.boozebed,
+.weatherdash,
+.firstport,
+.favmus {
+  margin: 10px;
+}
+
+Form,
+#accordion {
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
+
+.aboutme {
+  border: none;
+}
+
+.downres {
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 100px;
+}
+
 #td {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+}
+
+.reshead {
+  margin-left: 20%;
+  margin-top: 40px;
+}
+
+.contactBtn,
+#aboutMe {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navLinks {
+  margin-left: 10vw;
+}
+
+.imagerow {
+  text-align: center;
+}
+
+.img1,
+.img4,
+.img7 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.img2,
+.img5,
+.img8 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin: 10px;
+}
+
+.img3,
+.img6,
+.img9 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 20px;
 }
