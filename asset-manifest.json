@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio/static/css/main.06601537.css",
+    "main.js": "/my-react-portfolio/static/js/main.5dcb8e65.js",
+    "static/media/first-portfolio.png": "/my-react-portfolio/static/media/first-portfolio.f642c62fcebde90768b8.png",
+    "static/media/weather-dashboard.png": "/my-react-portfolio/static/media/weather-dashboard.ef39997cc57181a2ddd7.png",
+    "static/media/booze-and-bed.png": "/my-react-portfolio/static/media/booze-and-bed.81be88814568bf2ea632.png",
+    "static/media/aquaDown.png": "/my-react-portfolio/static/media/aquaDown.3bf87721512394b79530.png",
+    "static/media/rubicon-peak-splitboard.jpg": "/my-react-portfolio/static/media/rubicon-peak-splitboard.a8b68a6626eb1f347197.jpg",
+    "static/media/rubicon-lake.jpg": "/my-react-portfolio/static/media/rubicon-lake.ead331d03017f214a08d.jpg",
+    "static/media/resume.pdf": "/my-react-portfolio/static/media/resume.c0b58ef5940908cb5952.pdf",
+    "static/media/christmastyler.jpg": "/my-react-portfolio/static/media/christmastyler.4a47dba295319e1bb706.jpg",
+    "static/media/tallac.jpg": "/my-react-portfolio/static/media/tallac.f6c713b449f094b15d71.jpg",
+    "static/media/leo-burn.jpg": "/my-react-portfolio/static/media/leo-burn.c5a730021a8dc81dc32e.jpg",
+    "static/media/lake-tahoe-sunset.jpg": "/my-react-portfolio/static/media/lake-tahoe-sunset.c88866823d1c455f9740.jpg",
+    "static/media/tylerandleo.jpg": "/my-react-portfolio/static/media/tylerandleo.82b027cd94c9b827d7e2.jpg",
+    "static/media/king-leo-cliff.jpg": "/my-react-portfolio/static/media/king-leo-cliff.a8cda538da1ce7335c39.jpg",
+    "static/media/red-mountain.jpg": "/my-react-portfolio/static/media/red-mountain.61975cba92589b3da8fa.jpg",
+    "static/media/favorite-musician.jpeg": "/my-react-portfolio/static/media/favorite-musician.164a121d7fa46badcac0.jpeg",
+    "static/media/td.jpeg": "/my-react-portfolio/static/media/td.01589b0ff1f2a38f457e.jpeg",
+    "index.html": "/my-react-portfolio/index.html",
+    "static/media/linkedin.webp": "/my-react-portfolio/static/media/linkedin.4788c7b6aaf7ff294d6f.webp",
+    "main.06601537.css.map": "/my-react-portfolio/static/css/main.06601537.css.map",
+    "main.5dcb8e65.js.map": "/my-react-portfolio/static/js/main.5dcb8e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06601537.css",
+    "static/js/main.5dcb8e65.js"
+  ]
+}
