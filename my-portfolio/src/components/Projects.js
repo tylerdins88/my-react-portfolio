@@ -6,11 +6,23 @@ import Booze from "../assets/booze-and-bed.png";
 import Fav from "../assets/favorite-musician.jpeg";
 import First from "../assets/first-portfolio.png";
 import Weather from "../assets/weather-dashboard.png"
+import Needle from "../assets/needle-junkeez.png";
 import "../index.css";
 
 function Projects() {
     return (
         <Row className='projects'>
+            <Card className="needle" style={{ width: '19rem' }}>
+                <Card.Img variant="top" src={Needle} />
+                <Card.Body>
+                    <Card.Title>Needle / Junkeez</Card.Title>
+                    <Card.Text>
+                        this is a app built to show case my React skill set. it was a group project that uses React, Express, MongoDB, and Apollo.
+                    </Card.Text>
+                    <Button variant="primary" target="_blank" rel="noreferrer" href="https://github.com/jhdk707/NeedleJunkies">github repo.</Button>
+                    <Button variant="primary" target="_blank" rel="noreferrer">coming soon.</Button>
+                </Card.Body>
+            </Card>
             <Card className="aquadown" style={{ width: '19rem' }}>
                 <Card.Img variant="top" src={Aqua} />
                 <Card.Body>
