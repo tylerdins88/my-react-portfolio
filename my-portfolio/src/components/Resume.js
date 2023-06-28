@@ -1,7 +1,7 @@
 import React from "react";
 import Accordion from 'react-bootstrap/Accordion';
 import Card from "react-bootstrap/Card";
-import ResumePDF from "../assets/tyler-dinslage-resume-june-2023.pdf"
+import ResumePDF from "../assets/tyler-dinslage-resume-july-2023.pdf"
 
 function Resume() {
     return (
