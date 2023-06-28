@@ -2,12 +2,12 @@ import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../index.css';
 import Card from 'react-bootstrap/Card';
-import td from '../assets/td.jpeg';
+import headshot from '../assets/headshot-one.jpg';
 
 function About() {
     return (
         <div className="about">
-            <Card.Img id="td" variant="top" src={td} style={{ width: '27vw' }} />
+            <Card.Img id="td" variant="top" src={headshot} style={{ width: '27vw' }} />
             <Card className="aboutme">
                 <Card.Body id="aboutMe" style={{ width: '75vw' }}>
                     <Card.Title>about me:</Card.Title>
