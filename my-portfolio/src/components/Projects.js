@@ -11,7 +11,7 @@ import "../index.css";
 
 function Projects() {
     return (
-        <Row className='projects'>
+        <Row className='projects mx-auto' >
             <Card className="needle card-hover" style={{ width: '19rem' }}>
                 <Card.Img variant="top" className="projectImg" src={Needle} />
                 <Card.Body>

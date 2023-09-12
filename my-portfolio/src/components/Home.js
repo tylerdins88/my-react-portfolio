@@ -13,19 +13,19 @@ export default function Home() {
     return (
         <>
             <div className="imagerow">
-                <img className="img1" alt="rubiconlake" src={Tallac} />
-                <img className="img2" alt="burnleo" src={Burn} />
-                <img className="img3" alt="tallacmountain" src={Red} />
+                <img className="img1 img-fluid" alt="rubiconlake" src={Tallac} />
+                <img className="img2 img-fluid" alt="burnleo" src={Burn} />
+                <img className="img3 img-fluid" alt="tallacmountain" src={Red} />
             </div>
             <div className="imagerow">
-                <img className="img4" alt="christmas" src={Rubicon} />
-                <img className="img5" alt="tylerandleo" src={TylerAndLeo} />
-                <img className="img6" alt="redmountain" src={Lake} />
+                <img className="img4 img-fluid" alt="christmas" src={Rubicon} />
+                <img className="img5 img-fluid" alt="tylerandleo" src={TylerAndLeo} />
+                <img className="img6 img-fluid" alt="redmountain" src={Lake} />
             </div>
             <div className="imagerow">
-                <img className="img7" alt="rubicon" src={Christmas} />
-                <img className="img8" alt="cliffleo" src={Leo} />
-                <img className="img9" alt="laketahoe" src={Tahoe} />
+                <img className="img7 img-fluid" alt="rubicon" src={Christmas} />
+                <img className="img8 img-fluid" alt="cliffleo" src={Leo} />
+                <img className="img9 img-fluid" alt="laketahoe" src={Tahoe} />
             </div>
         </>
     )
