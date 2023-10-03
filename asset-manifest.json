@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.762bef9a.css",
-    "main.js": "/my-react-portfolio/static/js/main.1a2ca89e.js",
+    "main.css": "/my-react-portfolio/static/css/main.36f42b2d.css",
+    "main.js": "/my-react-portfolio/static/js/main.b2bfc544.js",
     "static/media/headshot-one.jpg": "/my-react-portfolio/static/media/headshot-one.32dd6a2da7bd39cbf811.jpg",
     "static/media/first-portfolio.png": "/my-react-portfolio/static/media/first-portfolio.f642c62fcebde90768b8.png",
     "static/media/needle-junkeez.png": "/my-react-portfolio/static/media/needle-junkeez.88e93b33a9ec1f21273a.png",
@@ -21,11 +21,11 @@
     "static/media/favorite-musician.jpeg": "/my-react-portfolio/static/media/favorite-musician.164a121d7fa46badcac0.jpeg",
     "index.html": "/my-react-portfolio/index.html",
     "static/media/linkedin.webp": "/my-react-portfolio/static/media/linkedin.4788c7b6aaf7ff294d6f.webp",
-    "main.762bef9a.css.map": "/my-react-portfolio/static/css/main.762bef9a.css.map",
-    "main.1a2ca89e.js.map": "/my-react-portfolio/static/js/main.1a2ca89e.js.map"
+    "main.36f42b2d.css.map": "/my-react-portfolio/static/css/main.36f42b2d.css.map",
+    "main.b2bfc544.js.map": "/my-react-portfolio/static/js/main.b2bfc544.js.map"
   },
   "entrypoints": [
-    "static/css/main.762bef9a.css",
-    "static/js/main.1a2ca89e.js"
+    "static/css/main.36f42b2d.css",
+    "static/js/main.b2bfc544.js"
   ]
 }
